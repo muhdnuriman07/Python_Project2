@@ -1,1 +1,1 @@
-Hello ("CUNT")
+print("CUNT")
